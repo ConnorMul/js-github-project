@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T16:54:12.190Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.3" etag="l7Py6yp9L3zFz4mqnFxv" type="github"><diagram id="Pl62SMpYmVAyfDu2zBC6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-21T18:00:28.741Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="LOi3EiNV3EuFtIt1lw5R" version="14.2.3" type="github">
+  <diagram id="Pl62SMpYmVAyfDu2zBC6" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="30" width="580" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-2" value="Header" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="30" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-3" value="FilterSort" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-4" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="45" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-5" value="Favorites" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="45" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-7" value="&lt;p style=&quot;line-height: 60% ; font-size: 15px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="540" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-8" value="ListingContainer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="150" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-9" value="Listing" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-11" value="Listing" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-12" value="Listing" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="390" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="670" width="580" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-18" value="Rooms Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-19" value="Details Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-20" value="Header" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="680" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-21" value="&lt;p style=&quot;line-height: 60% ; font-size: 15px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="145" y="760" width="540" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-22" value="ListingContainer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="770" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-23" value="Photo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="465" y="820" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-24" value="Details" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="810" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-26" value="Favorite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="770" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-27" value="Comments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1030" width="420" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1300" width="580" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-29" value="Header" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1310" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-31" value="Rooms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="45" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-32" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="695" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-33" value="Rooms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="695" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-34" value="Favorites" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="695" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-35" value="Home Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1410" width="540" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-37" value="ListingMap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-38" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1320" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-39" value="Rooms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="1320" width="67.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-40" value="Favorites" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1320" width="67.5" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

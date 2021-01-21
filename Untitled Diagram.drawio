@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T18:00:28.741Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="LOi3EiNV3EuFtIt1lw5R" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T18:45:28.629Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="L2STghhv04CqD9ZZJs6z" version="14.2.3" type="github">
   <diagram id="Pl62SMpYmVAyfDu2zBC6" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -108,6 +108,24 @@
         </mxCell>
         <mxCell id="fQGV6n-4ld-pLrWpLLM_-40" value="Favorites" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1320" width="67.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-42" value="Search" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1410" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-43" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1940" width="580" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-44" value="Header" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1960" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2090" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-46" value="LoginMenu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQGV6n-4ld-pLrWpLLM_-47" value="Login Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
